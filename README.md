@@ -6,3 +6,6 @@ A simple file explorer with c sharp ( c# ) and .netbased on the default file man
 
 
 ![file explorer 2](https://cloud.githubusercontent.com/assets/24621701/21533739/1bd89cba-cd5e-11e6-9101-92757b98a2bd.png)
+
+
+![file explorer 3](https://cloud.githubusercontent.com/assets/24621701/21533800/c5c1d6a6-cd5e-11e6-8209-57ee4513d35c.png)
