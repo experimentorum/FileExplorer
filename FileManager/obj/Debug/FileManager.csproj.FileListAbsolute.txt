@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Debug\MaterialSkin.dll
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+c:\users\dell\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.Form1.resources
