@@ -1,4 +1,4 @@
-# MaterialDesign-FileExplorer
+# FileExplorer
 A simple file explorer with c sharp ( c# ) and .net based on the default file manager , made with a beautifull material design components .
 
 ### Some Screenshots
